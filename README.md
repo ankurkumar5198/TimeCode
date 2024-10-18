@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/timecode-project.git
+   git clone https://github.com/ankurkumar5198/timecode-project.git
    ```
    Replace `yourusername` with your actual GitHub username.
 
